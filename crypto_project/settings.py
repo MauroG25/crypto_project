@@ -78,12 +78,13 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'crypto_db',
         'USER': 'postgres',
-        'PASSWORD': 'tu_password_segura',
+        'PASSWORD': '1234',
         'HOST': 'localhost',
         'PORT': '5432',
-
     }
 }
+
+
 
 
 # Password validation
